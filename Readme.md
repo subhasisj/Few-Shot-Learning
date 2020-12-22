@@ -6,5 +6,5 @@ Adapted from the example as shown here: https://data4thought.com/fewshot_learnin
 
 ## Explanation:
 
- ![Screenshot](/images/Few shot learning-1.jpg)
+ ![Screenshot](./images/Few shot learning-1.jpg)
 
